@@ -1,5 +1,5 @@
 numpy
 torch
 Pillow
-streamlit
-streamlit-drawable-canvas
+streamlit>=1.53.0
+streamlit-drawable-canvas>=0.10.0

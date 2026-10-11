@@ -104,6 +104,7 @@ canvas_result = st_canvas(
     stroke_color="#000000",
     background_color="#ffffff",
     update_streamlit=True,
+    return_image_data=True,
     height=280,
     width=280,
     drawing_mode="freedraw",
